@@ -1,0 +1,2 @@
+# gitmyBatisGeneratorSqlmapCustom
+ Java Project
